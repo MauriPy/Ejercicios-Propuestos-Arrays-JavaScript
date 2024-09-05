@@ -1,5 +1,5 @@
 // 1) Suma de elementos: Escribe una función que sume todos los elementos de un array numérico.
-
+// Linea para poder poder inputs.
 const prompt = require('prompt-sync')();
 
 // Pedimos al usuario que ingrese cauntos numeros quiere ingresar.
