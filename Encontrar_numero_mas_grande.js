@@ -7,10 +7,10 @@
 // Si ordenamos de menor a mayor, mostramos el ULTIMO elemento de la lista para saber el mayor.
 // Si ordenamos de mayor a menos, mostramos el PRIMER elemento de la lista para saber el mayor.
 
-// Linea para poder poder inputs.
+// Linea para poder poner inputs.
 const prompt = require('prompt-sync')();
 
-// Pedimos al usuario que ingrese cauntos numeros quiere ingresar.
+// Pedimos al usuario que ingrese cuantos numeros quiere ingresar.
 let cantidad = prompt('Ingrese cuantos numeros agregara a la lista: ')
 
 // Creamos la lista vacia.
